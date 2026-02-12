@@ -8,10 +8,10 @@
 		<version>4.0.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.vinextlearning</groupId>
+	<groupId>com.vinext</groupId>
 	<artifactId>vinext-learning</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>vinext-learning</name>
+	<name>Vinext Learning</name>
 	<description>ViNEXT LEARNING PLATFORM</description>
 	<url/>
 	<licenses>

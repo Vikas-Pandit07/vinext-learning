@@ -1,10 +1,10 @@
-package com.example.demo;
+package com.vinext;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class VinextlearningBackendApplicationTests {
+class VinextlearningApplicationTests {
 
 	@Test
 	void contextLoads() {

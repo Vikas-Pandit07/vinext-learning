@@ -1,4 +1,4 @@
-package com.vinextlearning;
+package com.vinext;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
