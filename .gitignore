@@ -1,27 +1,29 @@
-# =====================
-# IDE (Eclipse / STS)
-# =====================
+# =========================
+# Eclipse / STS
+# =========================
 .metadata/
 .settings/
 .project
 .classpath
 .factorypath
 
-# =====================
+# =========================
 # Backend
-# =====================
+# =========================
 backend/target/
 backend/.settings/
 backend/.classpath
 backend/.project
+backend/.factorypath
+backend/.env
 
-# =====================
+# =========================
 # Frontend (future)
-# =====================
+# =========================
 frontend/node_modules/
 frontend/dist/
 
-# =====================
+# =========================
 # Logs
-# =====================
+# =========================
 *.log
