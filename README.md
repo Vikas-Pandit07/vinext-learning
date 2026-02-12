@@ -36,4 +36,11 @@ To build a scalable learning platform with:
 
 ### Day 1
 
-- Initialized Spring Boot project
+- Initialized Spring Boot project structure
+- Database configured
+- Base architecture created
+
+### Day2
+
+- ## Test Commit for Contribution Check
+- Checking GitHub activity update from develop branch
