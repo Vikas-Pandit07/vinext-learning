@@ -1,0 +1,16 @@
+# Eclipse
+.idea/
+.metadata/
+.project
+.classpath
+.settings/
+.factorypath
+
+# Logs
+*.log
+
+# Build
+target/
+
+# Env
+.env
