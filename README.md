@@ -42,5 +42,7 @@ To build a scalable learning platform with:
 
 ### Day2
 
-- ## Test Commit for Contribution Check
-- Checking GitHub activity update from develop branch
+- Downgraded to Spring Boot 3.2.5
+- Stabilized datasource configuration
+- Created User entity and Role enum
+- Configured BCrypt password encoder
